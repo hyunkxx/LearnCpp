@@ -12,7 +12,7 @@ int main()
 	int number = 0;
 	cout << "Factorial" << endl;
 
-	while (!cin.eof()) 
+	while (!cin.eof())  
 	{
 		cout << "정수를 입력하세요 " << endl;
 		cin >> number;

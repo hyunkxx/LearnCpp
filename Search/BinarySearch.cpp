@@ -11,7 +11,7 @@ int A_BinarySearch(const int arr[],int first,int last,int target)
 		//failed.
 		return -1;
 	}
-
+	 
 	if (arr[mid] == target)
 	{
 		return arr[mid];

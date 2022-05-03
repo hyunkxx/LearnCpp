@@ -10,7 +10,7 @@ struct BTreeNode
 	Data       data;
 	BTreeNode* left;
 	BTreeNode* right;
-};
+}; 
 
 BTreeNode* MakeTreeNode();
 

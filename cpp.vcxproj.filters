@@ -16,7 +16,7 @@
     <Filter Include="소스 파일\Design Patterns">
       <UniqueIdentifier>{2279f453-6229-4c34-8ca9-b7235e49a5f4}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Data Structures">
+    <Filter Include="소스 파일\Data Structures"> 
       <UniqueIdentifier>{3484fe28-38c0-4c01-a292-d3e4e11f1c2a}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Data Structures\Search">
