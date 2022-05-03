@@ -12,7 +12,9 @@ int main()
 	BTreeNode* bt3 = MakeTreeNode();
 	BTreeNode* bt4 = MakeTreeNode();
 	BTreeNode* bt5 = MakeTreeNode();
-	BTreeNode* bt6 = MakeTreeNode();
+	BTreeNode* bt6 = MakeTreeNode(); 
+	//º¯°æ 
+
 
 	SetData(bt1, 1);
 	SetData(bt2, 2);
