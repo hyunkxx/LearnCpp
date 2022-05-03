@@ -20,7 +20,7 @@
       <UniqueIdentifier>{3484fe28-38c0-4c01-a292-d3e4e11f1c2a}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Data Structures\Search">
-      <UniqueIdentifier>{efea4487-30ad-4007-92e4-aab3d6df7f51}</UniqueIdentifier>
+      <UniqueIdentifier>{efea4487-30ad-4007-92e4-aab3d6df7f51}</UniqueIdentifier> 
     </Filter>
     <Filter Include="소스 파일\Data Structures\Recursion">
       <UniqueIdentifier>{8617c936-68cf-40ab-b412-c21390bab22c}</UniqueIdentifier>
