@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Design Patterns">
+      <UniqueIdentifier>{2279f453-6229-4c34-8ca9-b7235e49a5f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Data Structures">
+      <UniqueIdentifier>{3484fe28-38c0-4c01-a292-d3e4e11f1c2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Data Structures\Search">
+      <UniqueIdentifier>{efea4487-30ad-4007-92e4-aab3d6df7f51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Data Structures\Recursion">
+      <UniqueIdentifier>{8617c936-68cf-40ab-b412-c21390bab22c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Design Patterns\SOLID">
+      <UniqueIdentifier>{22bb76b3-c534-4cee-9612-926dba838978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Data Structures\Tree">
+      <UniqueIdentifier>{31571325-5eb4-4a14-a384-16b52201e2c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>소스 파일\Data Structures\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial.cpp">
+      <Filter>소스 파일\Data Structures\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="SOLID.cpp">
+      <Filter>소스 파일\Design Patterns\SOLID</Filter>
+    </ClCompile>
+    <ClCompile Include="BTree.cpp">
+      <Filter>소스 파일\Data Structures\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Data Structures\Tree</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BTree.h">
+      <Filter>소스 파일\Data Structures\Tree</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
